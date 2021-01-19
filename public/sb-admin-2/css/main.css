@@ -1,0 +1,17 @@
+.top-form {
+    margin-top: 7rem;
+}
+.available {
+    background: #1cc88a;
+    color: white;
+    padding: .1rem .4rem;
+    border-radius: 15px;
+    box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.15);
+}
+.used {
+    background: #e74a3b;
+    color: white;
+    padding: .1rem .4rem;
+    border-radius: 15px;
+    box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.15);
+}

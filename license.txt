@@ -1,0 +1,17 @@
+administrator:
+
+admin@example.com
+admin
+
+user:
+abe@example.com
+abe
+
+lala@example.com
+lala
+
+lily@example.com
+lily
+
+ina@example.com
+ina
